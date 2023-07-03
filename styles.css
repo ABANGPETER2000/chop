@@ -1,5 +1,5 @@
 #title {
-  background-image: url('images/Fish2.jpg');
+  background-image: url('Fish2.jpg');
   background-size: cover;
   background-attachment: fixed;
 }
@@ -10,12 +10,12 @@
 }
 
 #reservations {
-  background-image: url('images/table1.jpg');
+  background-image: url('table1.jpg');
   background-attachment: fixed;
 }
 
 #order {
-  background-image: url('images/fufu1.jpg');
+  background-image: url('fufu1.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;

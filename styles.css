@@ -1,0 +1,258 @@
+#title {
+  background-image: url('images/Fish2.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#display {
+  background-color: #f5f5ef;
+
+}
+
+#reservations {
+  background-image: url('images/table1.jpg');
+  background-attachment: fixed;
+}
+
+#order {
+  background-image: url('images/fufu1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+#about {
+  background-image: url('.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#reservations .container-fluid {
+  padding: 9% 25%;
+}
+
+#menu {
+  background-color: #f5f5ef;
+}
+
+#order .container-fluid {
+  padding: 10% 10%;
+}
+
+#restaurant {
+  background-color: #f5f5ef;
+}
+
+#reviews {
+  background-color: #f5f5ef;
+}
+
+#contact {
+  color: white;
+  background-color: black;
+}
+
+.navbar {
+  padding: 1% 10%;
+}
+
+.heading {
+  background-color: #f5f5ef;
+}
+
+.home-text {
+  font-size: 6rem;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  padding: 16%;
+}
+
+.container-fluid {
+  padding: 5% 15%;
+}
+
+.display-images {
+
+}
+
+.dp {
+  padding-bottom: 5%;
+}
+
+.dp-text {
+  font-size: 1.2rem;
+  color: white;
+  font-weight: bolder;
+  position: absolute;
+  top: 40%;
+  margin: 0% 20%;
+  text-align: center;
+  z-index: 1;
+}
+
+.res-text {
+  background-color: white;
+  padding: 10% 15%;
+  text-align: center;
+  background-color: #f5f5ef;
+}
+
+.res-btn {
+  margin-top: 10%;
+  background-color: black;
+  font-weight: bolder;
+}
+
+.menu-box {
+  margin: 5% 0%;
+}
+
+.menu-item {
+  padding: 3%;
+}
+
+.dish-title {
+  padding-bottom: 2%;
+  font-weight: bolder;
+}
+
+.menu-btn {
+  margin-top: 5%;
+  margin-left: 25%;
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
+.order-text {
+  color: white;
+  font-size: 2.8rem;
+  font-weight: bold;
+  margin-right: 50%;
+  padding-bottom: 15%;
+}
+
+.order-btn {
+  background-color: black;
+  font-weight: bolder;
+}
+
+.welcome-text {
+  padding-top: 10%;
+  padding-bottom: 7%;
+  text-align: center;
+}
+
+.welcome-text-body {
+  font-size: 1.2rem;
+}
+
+.review-head {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 10%;
+}
+
+.review-box {
+  padding: 3%;
+  text-align: center;
+}
+
+.review-title {
+  font-size: 1.2rem;
+  font-weight: bolder;
+  padding-bottom: 2%;
+}
+
+.review-body {
+  font-size: 1rem;
+  padding-bottom: 5%;
+}
+
+.contact-head {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 10%;
+}
+
+.contact-box {
+  padding: 3%;
+}
+
+.contact-title {
+  font-size: 1.3rem;
+  font-weight: bolder;
+  padding-bottom: 7%;
+}
+
+.contact-body {
+  font-size: 1.1rem;
+  padding-bottom: 12%;
+}
+
+#about .container-fluid {
+  ;
+}
+
+img {
+  width: 100%;
+}
+
+.text-title {
+  font-size: 2.4rem;
+  font-weight: bolder;
+  padding-bottom: 50px;
+}
+
+.text-body {
+  font-size: 1.5rem;
+}
+
+.about {
+  background-color: ;
+  padding-bottom: ;
+  margin-bottom: ;
+}
+
+.about-text-title {
+
+}
+
+
+@media (max-width: 991px) {
+
+  .dp3 {
+    width: 50%;
+    margin-left: 25%;
+  }
+
+  .dp-text {
+    font-size: 1rem;
+  }
+
+  #reservations .container-fluid {
+    padding: 9% 20%;
+  }
+
+  .text-title {
+    font-size: 2.1rem;
+    font-weight: bolder;
+    padding-bottom: 30px;
+  }
+
+  .text-body {
+    font-size: 1.2rem;
+  }
+
+  .order-text {
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-right: 40%;
+    padding-bottom: 15%;
+  }
+
+
+}
